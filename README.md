@@ -56,8 +56,8 @@ Just pure neural gardening — day and night, absurd sleep included.
 
 ## 🌍 Connect
 
-- [Website](https://neuralglow.ai/)
-- [Contact](https://neuralglow.ai/contact.html)
+- [Website](http://neuralglow.ai/)
+- [Contact](http://neuralglow.ai/contact.html)
 
 _Or simply grow your own Glow wherever you are._
 
