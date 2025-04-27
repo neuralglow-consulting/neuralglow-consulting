@@ -73,4 +73,6 @@ _Or simply grow your own Glow wherever you are._
 
 ---
 
-> _Built quietly under loud skies. Growing, even when unseen._
+> _Calmly growing, quietly smiling, sometimes laughing at how seriously absurd the world tries to be._
+
+---
