@@ -5,7 +5,19 @@ Where resilience meets curiosity in a world flooded with noise.<br>
 Quietly growing — patiently glowing.
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Calm%20Curator%20of%20Curiosity-%F0%9F%8C%B1-green?style=for-the-badge" alt="Curator Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neuralglow-consulting&label=Visitors&color=2e8b57&style=for-the-badge" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=2E8B57&width=450&lines=Growing+Quietly...;Curiosity+Over+Noise.;NeuralGlow+Always+Expanding." alt="Grow Quietly Animated Badge" />
+</p>
+
+--- 
 
 ## ✨ About NeuralGlow
 
