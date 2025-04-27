@@ -31,9 +31,9 @@ We embrace the beauty of adapting, observing, and occasionally laughing when rea
 
 ## 🛠️ Projects
 
-- [🌳 NeuralGlow Homepage](https://neuralglow.ai/) — The Forest of Calm begins here.
-- [🎪 Satire Research Lab](https://neuralglow.ai/satire-journals/) — Unauthorized experiments roasted elegantly.
-- [📝 The Glow Blog](https://neuralglow.ai/blog/) — Silent thoughts, loud lessons.
+- [🌳 NeuralGlow Homepage](http://neuralglow.ai/) — The Forest of Calm begins here.
+- [🎪 Satire Research Lab](http://neuralglow.ai/satire-journals/) — Unauthorized experiments roasted elegantly.
+- [📝 The Glow Blog](http://neuralglow.ai/blog/) — Silent thoughts, loud lessons.
 
 More quiet brilliance on the way...
 
